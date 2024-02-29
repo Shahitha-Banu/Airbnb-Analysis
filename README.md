@@ -13,3 +13,5 @@ Streamlit-based EDA (Exploratory Data Analysis)
 
 Interactive Data Exploration: Utilize Streamlit to create a user-friendly, interactive interface for exploring Airbnb data.
 Plotly Charts: Employ plotly charts to visualize key insights and trends in the dataset.
+
+An interactive dashboard has been created using Microsoft Power BI.
